@@ -17,8 +17,8 @@ terminal-border: "0"
   width = 70%
   height = 60%
   item_font = "Unifont Regular 18"
-  item_color = "#777777"
-  selected_item_color = "#444444"
+  item_color = "#ffffff"
+  selected_item_color = "#777777"
   item_height = 40
   item_spacing = 4
   item_pixmap_style = "item_*.png"
@@ -38,7 +38,7 @@ terminal-border: "0"
   # text = "Démarrage automatique dans %d secondes"
   # RU
   # text = "Загрузка выбранного пункта через %d сек."
-  color = "#777777"
+  color = "#ffffff"
   font = "Unifont Regular 18"
 }
 
@@ -54,6 +54,6 @@ terminal-border: "0"
   # text = "Choisissez le système avec les flèches du clavier (↑ et ↓), puis validez avec la touche Enter (↲)"
   # RU
   # text = "Используйте клавиши ↑ и ↓ для изменения выбора, Enter для подтверждения"
-  color = "#777777"
+  color = "#ffffff"
   font = "Unifont Regular 18"
 }
